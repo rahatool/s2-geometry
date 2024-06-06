@@ -1,0 +1,40 @@
+{
+	"name": "@raha.group/s2-geometry",
+	"version": "1.0.7",
+	"description": "A native JavaScript port of Google's S2 Geometry library",
+	"main": "main.js",
+	"type": "module",
+	"scripts": {
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"keywords": [
+		"s2-geometry",
+		"geometry",
+		"coordinates",
+		"spatial index",
+		"geohash",
+		"geocode",
+		"proximity",
+		"nearby",
+		"geo-query",
+		"geo-location",
+		"position",
+		"distance",
+		"k-nn",
+		"realtime"
+	],
+	"contributors": [
+		"Mahdi NezaratiZadeh"
+	],
+	"license": "CC-BY-SA-4.0",
+	"bugs": {
+		"url": "https://groups.google.com/d/forum/rahagroup"
+	},
+	"homepage": "https://raha.group",
+	"funding": [
+		{
+			"type" : "paypal",
+			"url" : "https://paypal.com/cgi-bin/webscr?cmd=_donations&business=RZC8HCR5SPGQY&item_name=Contribute+to+Raha%27s+ongoing+maintenance+and+development&currency_code=USD&source=url"
+		}
+	]
+}
